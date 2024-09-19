@@ -21,9 +21,4 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\APIGateway_BE202156\APIGateway_BE202156.csproj" />
-    <ProjectReference Include="..\ProductoAPI\ProductoAPI.csproj" />
-  </ItemGroup>
-
 </Project>

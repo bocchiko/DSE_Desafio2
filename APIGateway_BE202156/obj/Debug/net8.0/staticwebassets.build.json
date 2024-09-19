@@ -1,23 +1,11 @@
 {
   "Version": 1,
-  "Hash": "SZRnTVzBLRo5vI4Poj6xob7/Pgqb/MBsmYk8SfZRNKI=",
+  "Hash": "DjtvF2c+cHMB5km34eUA0IifpIPa0ldodF1Wxs+y+2g=",
   "Source": "APIGateway_BE202156",
   "BasePath": "_content/APIGateway_BE202156",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [
-    {
-      "Identity": "D:\\github\\DSE_Desafio2\\ProductoAPI\\ProductoAPI.csproj",
-      "Version": 2,
-      "Source": "ProductoAPI",
-      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
-      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
-      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
-      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
-    }
-  ],
+  "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
   "Assets": []
 }

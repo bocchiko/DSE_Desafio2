@@ -33,21 +33,9 @@ D:\github\DSE_Desafio2\UsuarioAPI\obj\Debug\net8.0\refint\UsuarioAPI.dll
 D:\github\DSE_Desafio2\UsuarioAPI\obj\Debug\net8.0\UsuarioAPI.pdb
 D:\github\DSE_Desafio2\UsuarioAPI\obj\Debug\net8.0\UsuarioAPI.genruntimeconfig.cache
 D:\github\DSE_Desafio2\UsuarioAPI\obj\Debug\net8.0\ref\UsuarioAPI.dll
-D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\APIGateway_BE202156.deps.json
-D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\APIGateway_BE202156.runtimeconfig.json
-D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\ProductoAPI.deps.json
-D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\ProductoAPI.runtimeconfig.json
-D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\ProductoAPI.exe
-D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\ocelot.json
-D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\APIGateway_BE202156.exe
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\Azure.Core.dll
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\Azure.Identity.dll
-D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\FluentValidation.dll
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\Humanizer.dll
-D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\IPAddressRange.dll
-D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
-D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
-D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\Microsoft.Build.dll
@@ -69,7 +57,6 @@ D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
@@ -90,7 +77,6 @@ D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.Co
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
-D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\NuGet.Common.dll
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\NuGet.Configuration.dll
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
@@ -100,7 +86,6 @@ D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\NuGet.Packaging.dll
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\NuGet.ProjectModel.dll
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\NuGet.Protocol.dll
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\NuGet.Versioning.dll
-D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\Ocelot.dll
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\System.CodeDom.dll
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\System.Composition.Convention.dll
@@ -267,7 +252,3 @@ D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\Syste
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
-D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\APIGateway_BE202156.dll
-D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\ProductoAPI.dll
-D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\APIGateway_BE202156.pdb
-D:\github\DSE_Desafio2\UsuarioAPI\bin\Debug\net8.0\ProductoAPI.pdb

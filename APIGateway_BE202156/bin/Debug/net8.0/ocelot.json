@@ -6,7 +6,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 7069
+          "Port": 7193
         }
       ],
       "UpstreamPathTemplate": "/productos",
@@ -20,7 +20,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 7069
+          "Port": 7193
         }
       ],
       "UpstreamPathTemplate": "/productos/{id}",
@@ -34,7 +34,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 7069
+          "Port": 7193
         }
       ],
       "UpstreamPathTemplate": "/productos",
@@ -48,7 +48,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 7069
+          "Port": 7193
         }
       ],
       "UpstreamPathTemplate": "/productos/{id}",
@@ -62,7 +62,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 7069
+          "Port": 7193
         }
       ],
       "UpstreamPathTemplate": "/productos/{id}",
@@ -78,7 +78,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 7069
+          "Port": 7056
         }
       ],
       "UpstreamPathTemplate": "/libros",
@@ -92,7 +92,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 7069
+          "Port": 7056
         }
       ],
       "UpstreamPathTemplate": "/libros/{id}",
@@ -110,7 +110,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 7069
+          "Port": 7056
         }
       ],
       "UpstreamPathTemplate": "/libros",
@@ -124,7 +124,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 7069
+          "Port": 7056
         }
       ],
       "UpstreamPathTemplate": "/libros/{id}",
@@ -138,7 +138,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 7069
+          "Port": 7056
         }
       ],
       "UpstreamPathTemplate": "/libros/{id}",
@@ -239,7 +239,7 @@
             "Name": "Productos API",
             "Scheme": "https",
             "Host": "localhost",
-            "Port": 7069,
+            "Port": 7193,
             "Path": "/swagger/v1/swagger.json"
           }
         ]
@@ -251,7 +251,7 @@
             "Name": "Productos API",
             "Scheme": "https",
             "Host": "localhost",
-            "Port": 7069,
+            "Port": 7193,
             "Path": "/swagger/v1/swagger.json"
           }
         ]
@@ -275,7 +275,7 @@
             "Name": "Usuarios API",
             "Scheme": "https",
             "Host": "localhost",
-            "Port": 5210,
+            "Port": 7258,
             "Path": "/swagger/v1/swagger.json"
           }
         ]
