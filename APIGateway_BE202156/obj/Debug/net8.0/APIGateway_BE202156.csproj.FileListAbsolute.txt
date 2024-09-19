@@ -427,3 +427,4 @@ D:\github\DSE_Desafio2\APIGateway_BE202156\obj\Debug\net8.0\refint\APIGateway_BE
 D:\github\DSE_Desafio2\APIGateway_BE202156\obj\Debug\net8.0\APIGateway_BE202156.pdb
 D:\github\DSE_Desafio2\APIGateway_BE202156\obj\Debug\net8.0\APIGateway_BE202156.genruntimeconfig.cache
 D:\github\DSE_Desafio2\APIGateway_BE202156\obj\Debug\net8.0\ref\APIGateway_BE202156.dll
+D:\github\DSE_Desafio2\APIGateway_BE202156\obj\Debug\net8.0\APIGateway_BE202156.sourcelink.json

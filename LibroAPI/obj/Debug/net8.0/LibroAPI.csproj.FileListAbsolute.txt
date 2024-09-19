@@ -757,3 +757,4 @@ D:\github\DSE_Desafio2\LibroAPI\obj\Debug\net8.0\refint\LibroAPI.dll
 D:\github\DSE_Desafio2\LibroAPI\obj\Debug\net8.0\LibroAPI.pdb
 D:\github\DSE_Desafio2\LibroAPI\obj\Debug\net8.0\LibroAPI.genruntimeconfig.cache
 D:\github\DSE_Desafio2\LibroAPI\obj\Debug\net8.0\ref\LibroAPI.dll
+D:\github\DSE_Desafio2\LibroAPI\obj\Debug\net8.0\LibroAPI.sourcelink.json

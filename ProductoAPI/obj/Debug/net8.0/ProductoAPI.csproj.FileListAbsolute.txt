@@ -757,3 +757,4 @@ D:\github\DSE_Desafio2\ProductoAPI\obj\Debug\net8.0\refint\ProductoAPI.dll
 D:\github\DSE_Desafio2\ProductoAPI\obj\Debug\net8.0\ProductoAPI.pdb
 D:\github\DSE_Desafio2\ProductoAPI\obj\Debug\net8.0\ProductoAPI.genruntimeconfig.cache
 D:\github\DSE_Desafio2\ProductoAPI\obj\Debug\net8.0\ref\ProductoAPI.dll
+D:\github\DSE_Desafio2\ProductoAPI\obj\Debug\net8.0\ProductoAPI.sourcelink.json
