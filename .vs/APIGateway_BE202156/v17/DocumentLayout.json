@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github\\DSE_Desafio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A34EB673-AB40-47DC-BAA9-7CFFC3C811DB}|APIGateway_BE202156\\APIGateway_BE202156.csproj|d:\\github\\dse_desafio2\\apigateway_be202156\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A34EB673-AB40-47DC-BAA9-7CFFC3C811DB}|APIGateway_BE202156\\APIGateway_BE202156.csproj|solutionrelative:apigateway_be202156\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34EB673-AB40-47DC-BAA9-7CFFC3C811DB}|APIGateway_BE202156\\APIGateway_BE202156.csproj|d:\\github\\dse_desafio2\\apigateway_be202156\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A34EB673-AB40-47DC-BAA9-7CFFC3C811DB}|APIGateway_BE202156\\APIGateway_BE202156.csproj|solutionrelative:apigateway_be202156\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D400C-6347-4C12-A64E-C863A444A117}|LibroAPI\\LibroAPI.csproj|d:\\github\\dse_desafio2\\libroapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88D400C-6347-4C12-A64E-C863A444A117}|LibroAPI\\LibroAPI.csproj|solutionrelative:libroapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CFE335-3E40-4EAC-AE83-CBFB2005B5CA}|ProductoAPI\\ProductoAPI.csproj|d:\\github\\dse_desafio2\\productoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75CFE335-3E40-4EAC-AE83-CBFB2005B5CA}|ProductoAPI\\ProductoAPI.csproj|solutionrelative:productoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34EB673-AB40-47DC-BAA9-7CFFC3C811DB}|APIGateway_BE202156\\APIGateway_BE202156.csproj|d:\\github\\dse_desafio2\\apigateway_be202156\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34EB673-AB40-47DC-BAA9-7CFFC3C811DB}|APIGateway_BE202156\\APIGateway_BE202156.csproj|solutionrelative:apigateway_be202156\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D400C-6347-4C12-A64E-C863A444A117}|LibroAPI\\LibroAPI.csproj|d:\\github\\dse_desafio2\\libroapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88D400C-6347-4C12-A64E-C863A444A117}|LibroAPI\\LibroAPI.csproj|solutionrelative:libroapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D400C-6347-4C12-A64E-C863A444A117}|LibroAPI\\LibroAPI.csproj|d:\\github\\dse_desafio2\\libroapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C88D400C-6347-4C12-A64E-C863A444A117}|LibroAPI\\LibroAPI.csproj|solutionrelative:libroapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D400C-6347-4C12-A64E-C863A444A117}|LibroAPI\\LibroAPI.csproj|d:\\github\\dse_desafio2\\libroapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C88D400C-6347-4C12-A64E-C863A444A117}|LibroAPI\\LibroAPI.csproj|solutionrelative:libroapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CFE335-3E40-4EAC-AE83-CBFB2005B5CA}|ProductoAPI\\ProductoAPI.csproj|d:\\github\\dse_desafio2\\productoapi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CFE335-3E40-4EAC-AE83-CBFB2005B5CA}|ProductoAPI\\ProductoAPI.csproj|solutionrelative:productoapi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CFE335-3E40-4EAC-AE83-CBFB2005B5CA}|ProductoAPI\\ProductoAPI.csproj|d:\\github\\dse_desafio2\\productoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CFE335-3E40-4EAC-AE83-CBFB2005B5CA}|ProductoAPI\\ProductoAPI.csproj|solutionrelative:productoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D400C-6347-4C12-A64E-C863A444A117}|LibroAPI\\LibroAPI.csproj|d:\\github\\dse_desafio2\\libroapi\\models\\librocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88D400C-6347-4C12-A64E-C863A444A117}|LibroAPI\\LibroAPI.csproj|solutionrelative:libroapi\\models\\librocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CFE335-3E40-4EAC-AE83-CBFB2005B5CA}|ProductoAPI\\ProductoAPI.csproj|d:\\github\\dse_desafio2\\productoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75CFE335-3E40-4EAC-AE83-CBFB2005B5CA}|ProductoAPI\\ProductoAPI.csproj|solutionrelative:productoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D400C-6347-4C12-A64E-C863A444A117}|LibroAPI\\LibroAPI.csproj|d:\\github\\dse_desafio2\\libroapi\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88D400C-6347-4C12-A64E-C863A444A117}|LibroAPI\\LibroAPI.csproj|solutionrelative:libroapi\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CFE335-3E40-4EAC-AE83-CBFB2005B5CA}|ProductoAPI\\ProductoAPI.csproj|d:\\github\\dse_desafio2\\productoapi\\models\\productocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CFE335-3E40-4EAC-AE83-CBFB2005B5CA}|ProductoAPI\\ProductoAPI.csproj|solutionrelative:productoapi\\models\\productocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CFE335-3E40-4EAC-AE83-CBFB2005B5CA}|ProductoAPI\\ProductoAPI.csproj|d:\\github\\dse_desafio2\\productoapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CFE335-3E40-4EAC-AE83-CBFB2005B5CA}|ProductoAPI\\ProductoAPI.csproj|solutionrelative:productoapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CFE335-3E40-4EAC-AE83-CBFB2005B5CA}|ProductoAPI\\ProductoAPI.csproj|d:\\github\\dse_desafio2\\productoapi\\migrations\\20240829010201_migra_incial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CFE335-3E40-4EAC-AE83-CBFB2005B5CA}|ProductoAPI\\ProductoAPI.csproj|solutionrelative:productoapi\\migrations\\20240829010201_migra_incial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "D:\\github\\DSE_Desafio2\\APIGateway_BE202156\\ocelot.json",
+              "RelativeDocumentMoniker": "APIGateway_BE202156\\ocelot.json",
+              "ToolTip": "D:\\github\\DSE_Desafio2\\APIGateway_BE202156\\ocelot.json",
+              "RelativeToolTip": "APIGateway_BE202156\\ocelot.json",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T00:00:56.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\github\\DSE_Desafio2\\APIGateway_BE202156\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APIGateway_BE202156\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\github\\DSE_Desafio2\\APIGateway_BE202156\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APIGateway_BE202156\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T00:00:06.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\github\\DSE_Desafio2\\LibroAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LibroAPI\\Program.cs",
+              "ToolTip": "D:\\github\\DSE_Desafio2\\LibroAPI\\Program.cs",
+              "RelativeToolTip": "LibroAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T23:51:03.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\github\\DSE_Desafio2\\ProductoAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductoAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\github\\DSE_Desafio2\\ProductoAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductoAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T01:05:55.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\github\\DSE_Desafio2\\APIGateway_BE202156\\Program.cs",
+              "RelativeDocumentMoniker": "APIGateway_BE202156\\Program.cs",
+              "ToolTip": "D:\\github\\DSE_Desafio2\\APIGateway_BE202156\\Program.cs",
+              "RelativeToolTip": "APIGateway_BE202156\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T01:09:37.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "D:\\github\\DSE_Desafio2\\LibroAPI\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "LibroAPI\\Controllers\\LibrosController.cs",
+              "ToolTip": "D:\\github\\DSE_Desafio2\\LibroAPI\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "LibroAPI\\Controllers\\LibrosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T23:53:29.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\github\\DSE_Desafio2\\LibroAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LibroAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\github\\DSE_Desafio2\\LibroAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LibroAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T01:07:41.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\github\\DSE_Desafio2\\LibroAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LibroAPI\\appsettings.json",
+              "ToolTip": "D:\\github\\DSE_Desafio2\\LibroAPI\\appsettings.json",
+              "RelativeToolTip": "LibroAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T23:50:24.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\github\\DSE_Desafio2\\ProductoAPI\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "ProductoAPI\\Models\\Producto.cs",
+              "ToolTip": "D:\\github\\DSE_Desafio2\\ProductoAPI\\Models\\Producto.cs",
+              "RelativeToolTip": "ProductoAPI\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T00:44:49.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\github\\DSE_Desafio2\\ProductoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductoAPI\\Program.cs",
+              "ToolTip": "D:\\github\\DSE_Desafio2\\ProductoAPI\\Program.cs",
+              "RelativeToolTip": "ProductoAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T00:57:54.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LibroContext.cs",
+              "DocumentMoniker": "D:\\github\\DSE_Desafio2\\LibroAPI\\Models\\LibroContext.cs",
+              "RelativeDocumentMoniker": "LibroAPI\\Models\\LibroContext.cs",
+              "ToolTip": "D:\\github\\DSE_Desafio2\\LibroAPI\\Models\\LibroContext.cs",
+              "RelativeToolTip": "LibroAPI\\Models\\LibroContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwBgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T23:41:19.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\github\\DSE_Desafio2\\ProductoAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductoAPI\\appsettings.json",
+              "ToolTip": "D:\\github\\DSE_Desafio2\\ProductoAPI\\appsettings.json",
+              "RelativeToolTip": "ProductoAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T00:55:44.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "D:\\github\\DSE_Desafio2\\LibroAPI\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "LibroAPI\\Models\\Libro.cs",
+              "ToolTip": "D:\\github\\DSE_Desafio2\\LibroAPI\\Models\\Libro.cs",
+              "RelativeToolTip": "LibroAPI\\Models\\Libro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T23:38:11.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductoContext.cs",
+              "DocumentMoniker": "D:\\github\\DSE_Desafio2\\ProductoAPI\\Models\\ProductoContext.cs",
+              "RelativeDocumentMoniker": "ProductoAPI\\Models\\ProductoContext.cs",
+              "ToolTip": "D:\\github\\DSE_Desafio2\\ProductoAPI\\Models\\ProductoContext.cs",
+              "RelativeToolTip": "ProductoAPI\\Models\\ProductoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T00:48:14.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "D:\\github\\DSE_Desafio2\\ProductoAPI\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "ProductoAPI\\Controllers\\ProductosController.cs",
+              "ToolTip": "D:\\github\\DSE_Desafio2\\ProductoAPI\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "ProductoAPI\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T01:04:18.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240829010201_Migra_Incial.cs",
+              "DocumentMoniker": "D:\\github\\DSE_Desafio2\\ProductoAPI\\Migrations\\20240829010201_Migra_Incial.cs",
+              "RelativeDocumentMoniker": "ProductoAPI\\Migrations\\20240829010201_Migra_Incial.cs",
+              "ToolTip": "D:\\github\\DSE_Desafio2\\ProductoAPI\\Migrations\\20240829010201_Migra_Incial.cs",
+              "RelativeToolTip": "ProductoAPI\\Migrations\\20240829010201_Migra_Incial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T01:02:01.571Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
