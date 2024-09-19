@@ -145,7 +145,85 @@
       "UpstreamHttpMethod": [ "Delete" ],
       "DownstreamHttpMethod": "Delete",
       "Swaggerkey": "Libros"
+    },
+
+
+    {
+      "DownstreamPathTemplate": "/api/usuarios",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7258
+        }
+      ],
+      "UpstreamPathTemplate": "/usuarios",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamHttpMethod": "Get",
+      "Swaggerkey": "Usuarios"
+    },
+    {
+      "DownstreamPathTemplate": "/api/usuarios/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7258
+        }
+      ],
+      "UpstreamPathTemplate": "/usuarios/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamHttpMethod": "Get",
+      "Swaggerkey": "Usuarios",
+      "FileCacheOptions": {
+        "TtlSeconds": 5,
+        "Region": "Usuarios"
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/usuarios",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7258
+        }
+      ],
+      "UpstreamPathTemplate": "/usuarios",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamHttpMethod": "Post",
+      "Swaggerkey": "Usuarios"
+    },
+    {
+      "DownstreamPathTemplate": "/api/usuarios/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7258
+        }
+      ],
+      "UpstreamPathTemplate": "/usuarios/{id}",
+      "UpstreamHttpMethod": [ "Put" ],
+      "DownstreamHttpMethod": "Put",
+      "Swaggerkey": "Usuarios"
+    },
+    {
+      "DownstreamPathTemplate": "/api/usuarios/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7258
+        }
+      ],
+      "UpstreamPathTemplate": "/usuarios/{id}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamHttpMethod": "Delete",
+      "Swaggerkey": "Usuarios"
     }
+
+
   ],
   "GlobalConfiguration": {
     "BaseUrl": "https://localhost:5000",
@@ -174,6 +252,30 @@
             "Scheme": "https",
             "Host": "localhost",
             "Port": 7069,
+            "Path": "/swagger/v1/swagger.json"
+          }
+        ]
+      },
+      {
+        "Key": "Usuarios",
+        "Config": [
+          {
+            "Name": "Usuarios API",
+            "Scheme": "https",
+            "Host": "localhost",
+            "Port": 7258,
+            "Path": "/swagger/v1/swagger.json"
+          }
+        ]
+      },
+      {
+        "Key": "Usuarios",
+        "Config": [
+          {
+            "Name": "Usuarios API",
+            "Scheme": "https",
+            "Host": "localhost",
+            "Port": 5210,
             "Path": "/swagger/v1/swagger.json"
           }
         ]
