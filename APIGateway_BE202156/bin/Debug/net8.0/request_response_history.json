@@ -1,0 +1,88 @@
+{
+  "Request": {
+    "Timestamp": "2024-09-19T23:39:24.6918125Z",
+    "Path": {
+      "Value": "/",
+      "HasValue": true
+    },
+    "Method": "GET",
+    "Headers": {
+      "Accept": "text/html,application/xhtml\u002Bxml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+      "Host": "localhost:7162",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Accept-Language": "en-US,en;q=0.9",
+      "Upgrade-Insecure-Requests": "1",
+      "sec-ch-ua": "\u0022Chromium\u0022;v=\u0022128\u0022, \u0022Not;A=Brand\u0022;v=\u002224\u0022, \u0022Microsoft Edge\u0022;v=\u0022128\u0022",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\u0022Windows\u0022",
+      "sec-fetch-site": "none",
+      "sec-fetch-mode": "navigate",
+      "sec-fetch-user": "?1",
+      "sec-fetch-dest": "document",
+      "priority": "u=0, i"
+    },
+    "QueryString": "",
+    "Body": null
+  },
+  "Response": {
+    "Timestamp": "2024-09-19T23:39:24.7090245Z",
+    "StatusCode": 404,
+    "Headers": {},
+    "Body": ""
+  }
+}
+{
+  "Request": {
+    "Timestamp": "2024-09-19T23:39:49.4074641Z",
+    "Path": {
+      "Value": "/productos",
+      "HasValue": true
+    },
+    "Method": "GET",
+    "Headers": {
+      "Accept": "*/*",
+      "Connection": "keep-alive",
+      "Host": "localhost:7162",
+      "User-Agent": "PostmanRuntime/7.35.0",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Authorization": "Basic dXNlcjpwYXNzd29yZA==",
+      "Postman-Token": "e3633fe4-9b22-49db-adf1-7557fbbff2df"
+    },
+    "QueryString": "",
+    "Body": null
+  },
+  "Response": {
+    "Timestamp": "2024-09-19T23:39:49.4109453Z",
+    "StatusCode": 404,
+    "Headers": {},
+    "Body": ""
+  }
+}
+{
+  "Request": {
+    "Timestamp": "2024-09-19T23:39:55.3217219Z",
+    "Path": {
+      "Value": "/productos",
+      "HasValue": true
+    },
+    "Method": "GET",
+    "Headers": {
+      "Accept": "*/*",
+      "Connection": "keep-alive",
+      "Host": "localhost:7162",
+      "User-Agent": "PostmanRuntime/7.35.0",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Authorization": "Basic dXNlcjpwYXNzd29yZA==",
+      "Postman-Token": "d45c845b-dfa6-4d2e-b984-2dc7b7115e88"
+    },
+    "QueryString": "",
+    "Body": null
+  },
+  "Response": {
+    "Timestamp": "2024-09-19T23:39:55.3249271Z",
+    "StatusCode": 404,
+    "Headers": {},
+    "Body": ""
+  }
+}

@@ -71,83 +71,6 @@
       "Swaggerkey": "Productos"
     },
 
-
-    {
-      "DownstreamPathTemplate": "/api/libros",
-      "DownstreamScheme": "https",
-      "DownstreamHostAndPorts": [
-        {
-          "Host": "localhost",
-          "Port": 7056
-        }
-      ],
-      "UpstreamPathTemplate": "/libros",
-      "UpstreamHttpMethod": [ "Get" ],
-      "DownstreamHttpMethod": "Get",
-      "Swaggerkey": "Libros"
-    },
-    {
-      "DownstreamPathTemplate": "/api/libros/{id}",
-      "DownstreamScheme": "https",
-      "DownstreamHostAndPorts": [
-        {
-          "Host": "localhost",
-          "Port": 7056
-        }
-      ],
-      "UpstreamPathTemplate": "/libros/{id}",
-      "UpstreamHttpMethod": [ "Get" ],
-      "DownstreamHttpMethod": "Get",
-      "Swaggerkey": "Libros",
-      "FileCacheOptions": {
-        "TtlSeconds": 5,
-        "Region": "Libros"
-      }
-    },
-    {
-      "DownstreamPathTemplate": "/api/libros",
-      "DownstreamScheme": "https",
-      "DownstreamHostAndPorts": [
-        {
-          "Host": "localhost",
-          "Port": 7056
-        }
-      ],
-      "UpstreamPathTemplate": "/libros",
-      "UpstreamHttpMethod": [ "Post" ],
-      "DownstreamHttpMethod": "Post",
-      "Swaggerkey": "Libros"
-    },
-    {
-      "DownstreamPathTemplate": "/api/libros/{id}",
-      "DownstreamScheme": "https",
-      "DownstreamHostAndPorts": [
-        {
-          "Host": "localhost",
-          "Port": 7056
-        }
-      ],
-      "UpstreamPathTemplate": "/libros/{id}",
-      "UpstreamHttpMethod": [ "Put" ],
-      "DownstreamHttpMethod": "Put",
-      "Swaggerkey": "Libros"
-    },
-    {
-      "DownstreamPathTemplate": "/api/libros/{id}",
-      "DownstreamScheme": "https",
-      "DownstreamHostAndPorts": [
-        {
-          "Host": "localhost",
-          "Port": 7056
-        }
-      ],
-      "UpstreamPathTemplate": "/libros/{id}",
-      "UpstreamHttpMethod": [ "Delete" ],
-      "DownstreamHttpMethod": "Delete",
-      "Swaggerkey": "Libros"
-    },
-
-
     {
       "DownstreamPathTemplate": "/api/usuarios",
       "DownstreamScheme": "https",
@@ -226,10 +149,10 @@
 
   ],
   "GlobalConfiguration": {
-    "BaseUrl": "https://localhost:5000",
+    "BaseUrl": "https://localhost:7162",
     "FileCacheOptions": {
       "TtlSeconds": 60,
-      "Region":  "default"
+      "Region": "default"
     },
     "swaggerEndPoints": [
       {

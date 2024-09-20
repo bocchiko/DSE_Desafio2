@@ -758,3 +758,10 @@ D:\github\DSE_Desafio2\ProductoAPI\obj\Debug\net8.0\ProductoAPI.pdb
 D:\github\DSE_Desafio2\ProductoAPI\obj\Debug\net8.0\ProductoAPI.genruntimeconfig.cache
 D:\github\DSE_Desafio2\ProductoAPI\obj\Debug\net8.0\ref\ProductoAPI.dll
 D:\github\DSE_Desafio2\ProductoAPI\obj\Debug\net8.0\ProductoAPI.sourcelink.json
+D:\github\DSE_Desafio2\ProductoAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OutputCaching.StackExchangeRedis.dll
+D:\github\DSE_Desafio2\ProductoAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+D:\github\DSE_Desafio2\ProductoAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\github\DSE_Desafio2\ProductoAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\github\DSE_Desafio2\ProductoAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\github\DSE_Desafio2\ProductoAPI\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\github\DSE_Desafio2\ProductoAPI\bin\Debug\net8.0\StackExchange.Redis.dll
